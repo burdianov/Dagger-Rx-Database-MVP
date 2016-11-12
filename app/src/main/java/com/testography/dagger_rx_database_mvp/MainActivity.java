@@ -2,6 +2,8 @@ package com.testography.dagger_rx_database_mvp;
 
 import android.os.Bundle;
 
+import com.testography.dagger_rx_database_mvp.base.BaseActivity;
+
 public class MainActivity extends BaseActivity {
 
     @Override

@@ -1,4 +1,4 @@
-package com.testography.dagger_rx_database_mvp;
+package com.testography.dagger_rx_database_mvp.base;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
